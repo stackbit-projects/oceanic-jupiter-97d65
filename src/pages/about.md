@@ -103,7 +103,7 @@ sections:
     bg_color: light
 seo:
   title: DIAZ DIGITAL
-  description: This is the about us page
+  description: DIGITAL SELLER
   extra:
     - name: 'og:type'
       value: website
