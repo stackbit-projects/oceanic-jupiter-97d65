@@ -1,4 +1,4 @@
-import React from 'react';
+dazimport React from 'react';
 import _ from 'lodash';
 
 import {withPrefix, markdownify} from '../utils';
