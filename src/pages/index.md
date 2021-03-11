@@ -8,7 +8,7 @@ sections:
     content: >
       WE ARE A DIGITAL CATALOG SELLERS BIG COMMERCE OF VARIOUS  STORES. WE ALSO
       DO BOOKING FLIGHTS HOTELS ETC...
-  - section_id: 4419
+  - section_id: 441933
     title: FASHION
     subtitle: lorem-ipsum
     col_number: three
