@@ -33,9 +33,7 @@ export default class GridSection extends React.Component {
                     <div className="card__subtitle">{_.get(item, 'subtitle', null)}</div>
                     )}
                     {_.get(item, 'content', null) && (
-                    <div className="card__body">
-                      {markdownify(_.get(item, 'content', null))}
-                    </div>
+                    diaz
                     )}
                     {_.get(item, 'actions', null) && (
                     <div className="card__actions button-group">
