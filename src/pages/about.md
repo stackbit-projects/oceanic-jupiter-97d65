@@ -103,7 +103,7 @@ sections:
     bg_color: light
 seo:
   title: DIAZ DIGITAL
-  description: DIGITAL SELLER
+  description: DIAZ DIGITAL/AVON
   extra:
     - name: 'og:type'
       value: website
