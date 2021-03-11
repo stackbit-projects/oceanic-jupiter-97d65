@@ -8,6 +8,12 @@ sections:
     content: >
       WE ARE A DIGITAL CATALOG SELLERS BIG COMMERCE OF VARIOUS  STORES. WE ALSO
       DO BOOKING FLIGHTS HOTELS ETC...
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: grid_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
