@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: hero_section
-    section_id: hero
+    section_id: diaz
     title: DIAZ DIGITAL STORES
     content: >-
       We are a brand and design practice. We work closely with you, your team to
