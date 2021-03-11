@@ -109,7 +109,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: DIAZ AVON
       keyName: property
     - name: 'og:description'
       value: This is the about us page
