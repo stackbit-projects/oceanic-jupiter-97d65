@@ -5,10 +5,9 @@ sections:
   - type: hero_section
     section_id: diaz203
     title: DIAZ DIGITAL STORES
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      WE ARE A DIGITAL CATALOG SELLERS BIG COMMERCE OF VARIOUS  STORES. WE ALSO
+      DO BOOKING FLIGHTS HOTELS ETC...
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
