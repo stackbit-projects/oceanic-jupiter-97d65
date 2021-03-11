@@ -7,7 +7,7 @@ import Icon from './Icon';
 export default class Action extends React.Component {
     render() {
         let action = _.get(this.props, 'action', null);
-        let action_stylhe = _.get(action, 'style', null) || 'link';
+        let action_style = _.get(action, 'style', null) || 'link';
         let action_icon = _.get(action, 'icon', null) || 'dribbble';
         return (
             <Link to={withPrefix(_.get(action, 'url', null))}
