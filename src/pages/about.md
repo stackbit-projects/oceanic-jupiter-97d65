@@ -124,8 +124,5 @@ seo:
       value: About Us
     - name: 'twitter:description'
       value: This is the about us page
-    - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
 template: advanced
 ---
