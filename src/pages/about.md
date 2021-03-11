@@ -112,7 +112,7 @@ seo:
       value: DIAZ AVON
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: DIGITAL SELLER
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
