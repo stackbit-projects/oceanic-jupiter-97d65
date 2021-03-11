@@ -118,7 +118,5 @@ seo:
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
 template: advanced
 ---
