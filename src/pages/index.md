@@ -29,6 +29,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/Prima Fragance.jpg
     type: grid_section
   - type: portfolio_section
     section_id: latest-projects
