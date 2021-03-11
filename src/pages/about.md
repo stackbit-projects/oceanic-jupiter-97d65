@@ -106,7 +106,7 @@ seo:
   description: DIAZ DIGITAL/AVON
   extra:
     - name: 'og:type'
-      value: website
+      value: www.facebook.com/diaz_avon
       keyName: property
     - name: 'og:title'
       value: DIAZ AVON
