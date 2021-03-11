@@ -15,7 +15,7 @@ sections:
     grid_items:
       - title: Prima Perfume
         subtitle: Prima
-        image_alt: fragancy
+        image_alt: fraganc
         content: >-
           ## Lorem ipsum
 
