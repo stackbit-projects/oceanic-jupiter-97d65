@@ -10,7 +10,7 @@ sections:
       DO BOOKING FLIGHTS HOTELS ETC...
   - section_id: 441933253809283
     title: FASHION
-    subtitle: lorem-ipsum
+    subtitle: 
     col_number: three
     grid_items: []
     type: grid_section
