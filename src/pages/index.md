@@ -14,7 +14,7 @@ sections:
     col_number: three
     grid_items:
       - title: lorem-ipsum
-        subtitle: amirP
+        subtitle: Prima
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
