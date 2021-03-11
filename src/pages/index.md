@@ -13,7 +13,7 @@ sections:
     subtitle: fotos
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Prima Perfume
         subtitle: Prima
         image_alt: lorem-ipsum
         content: >-
