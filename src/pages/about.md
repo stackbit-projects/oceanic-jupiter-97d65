@@ -102,7 +102,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: About Us
+  title: DIAZ DIGITAL
   description: This is the about us page
   extra:
     - name: 'og:type'
