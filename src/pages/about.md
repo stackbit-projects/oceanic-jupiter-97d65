@@ -115,7 +115,7 @@ seo:
       value: DIGITAL SELLER
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: facebook.com/mainpage
       keyName: property
       relativeUrl: true
 template: advanced
